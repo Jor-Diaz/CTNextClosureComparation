@@ -1,0 +1,13 @@
+DATASET;TIME;MEMORY
+data/adult.txt;0.131258;6238
+data/car.txt;3.0869;9743222
+data/credit.txt;49.2583;3929004
+data/data.txt;0.00026;40
+data/example.txt;0.000488;28
+data/flight.txt;254.357;390168
+data/horse.txt;2321.34;1345618
+data/mushroom.txt;51.5135;39958
+data/nursery.txt;0.006224;1218
+data/servo.txt;0.010983;43450
+
+
